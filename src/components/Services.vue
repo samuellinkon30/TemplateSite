@@ -1,41 +1,38 @@
 <template>
-  <div class="Global">
-   <div class="NamePage">
-    <h4>Services</h4>
+<div class="Global">
+  <div class="NamePage">
+     <h4>Services</h4>
   </div>
   <div class="Products-Services">
     <div class="Container">
       <img class="fts" src="../assets/solar1.jpg">
-
       <div class="Container-text">
-       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a</p>
-     </div>
-   </div>
-   <div class="Container">
-    <img class="fts" src="../assets/solar2.jpg">
-    <div class="Container-text">
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a</p>
-   </div>
- </div>
- <div class="Container">
-  <img class="fts" src="../assets/solar3.jpg">
-  <div class="Container-text">
-   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a</p>
- </div>
-</div>
-<div class="Container">
-  <img class="fts" src="../assets/solar4.jpg">
-  <div class="Container-text">
-   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a</p>
- </div>
-</div>
-
-</div>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a</p>
+      </div>
+    </div>
+    <div class="Container">
+      <img class="fts" src="../assets/solar2.jpg">
+      <div class="Container-text">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a</p>
+      </div>
+    </div>
+    <div class="Container">
+      <img class="fts" src="../assets/solar3.jpg">
+      <div class="Container-text">
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a</p>
+      </div>
+    </div>
+    <div class="Container">
+      <img class="fts" src="../assets/solar4.jpg">
+      <div class="Container-text">
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a</p>
+      </div>
+    </div>
+  </div>
 </div>
 </template>
 
-<script >
-
+<script>
 </script>
 
 <style>

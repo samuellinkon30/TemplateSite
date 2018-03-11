@@ -5,16 +5,16 @@
       <b-navbar-brand href="Home">Sua Empresa</b-navbar-brand>
     </div>
     <div class="NameMenu">
-     <b-collapse is-nav id="nav_collapse">
-      <b-navbar-nav>
-        <b-nav-item href="Home">Home</b-nav-item>
-        <b-nav-item href="About">About</b-nav-item>
-        <b-nav-item href="Services">Services</b-nav-item>
-        <b-nav-item href="Contact">Contact</b-nav-item>
-      </b-navbar-nav>
-    </b-collapse>
-  </div>
-</b-navbar>
+       <b-collapse is-nav id="nav_collapse">
+        <b-navbar-nav>
+          <b-nav-item href="Home">Home</b-nav-item>
+          <b-nav-item href="About">About</b-nav-item>
+          <b-nav-item href="Services">Services</b-nav-item>
+          <b-nav-item href="Contact">Contact</b-nav-item>
+        </b-navbar-nav>
+      </b-collapse>
+    </div>
+  </b-navbar>
 </template>
 
 <style>
@@ -27,10 +27,10 @@ export default {
 </script>
 
 <style>
-.NameMenu{
+.NameMenu {
   text-shadow: 0px 0px 1px gray;
 }
-.NameEnterprise{
+.NameEnterprise {
   text-shadow: 1px 1px 1px gray;
 }
 .menu li {
@@ -52,7 +52,7 @@ export default {
   width: 100px;
   float: left;
 }
-body{
+body {
   background-image: url('../../assets/nature.jpg');
   background-size: cover;
 }

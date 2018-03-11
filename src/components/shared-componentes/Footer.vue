@@ -11,7 +11,8 @@
 </template>
 
 <script>
-export default {
+export default
+{
   name: 'footer'
 }
 </script>

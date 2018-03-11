@@ -30,5 +30,4 @@ const routes = [
     component: Contact
   }
 ]
-
 export default routes
