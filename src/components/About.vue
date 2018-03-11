@@ -69,7 +69,6 @@
   background: white;
   padding: 10px;
   text-align: center;
-  margin-top: 5px;
   font-size: 15px;
 }
 .contanier2 {
